@@ -1,0 +1,4 @@
+防回滚现象：
+按电源键启动设备后，联想LOGO亮起1秒钟，然后立马切换到下一个页面，此页面的描述如下：
+红色的"<!>"字符
+下方有说明文本：Your device is corrupted, it can't be trusted and will not boot.
